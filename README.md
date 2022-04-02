@@ -5,7 +5,7 @@ This assessment in two folders:
     - **Task1_Queries_and_answers.docx** is a word doc containing sql queries and answers, captured in a word doc
     - **data.xlsx** is an excel workbook containing the dataset
 
-Note: This part was written using T-SQL
+Note: This part was written in T-SQL
 
 2. **Task 2 Solutions**: This folder contains all solution files for Task 2
     - **Task2.ipynb** is a python notebook containing the precesses, results, findings and recommendations
