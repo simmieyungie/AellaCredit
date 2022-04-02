@@ -12,4 +12,4 @@ Note: This part was written using T-SQL
     - **Default_Fin.csv** contains the data used
 
 
-For enquires Send me an email here(mailto:kafarusimileoluwa@gmail.com).
+For enquires Send me an email [here](mailto:kafarusimileoluwa@gmail.com).
