@@ -6,6 +6,7 @@ This assessment in two folders:
     - **data.xlsx** is an excel workbook containing the dataset
 
 Note: This part was written using T-SQL
+
 2. **Task 2 Solutions**: This folder contains all solution files for Task 2
     - **Task2.ipynb** is a python notebook containing the precesses, results, findings and recommendations
     - **Default_Fin.csv** contains the data used
